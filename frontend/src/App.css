@@ -1,0 +1,11 @@
+.auth-container {
+  @apply flex flex-col md:flex-row justify-center gap-8 mt-8;
+}
+
+.main-content {
+  @apply mt-4;
+}
+
+.navbar-brand {
+  @apply font-bold text-lg;
+}
