@@ -1,0 +1,3 @@
+- Built a cloud-native event booking web app with microservices architecture (FastAPI backend + React frontend).
+- Deployed services on Azure Kubernetes Service (AKS) with Docker & ACR, enabling auto-scaling and high availability.
+- Integrated Azure SQL for transactions, Blob Storage for event images, and SendGrid for booking confirmation emails.
